@@ -9,6 +9,10 @@ sudo apt update
 sudo apt install default-jre default-jdk -y
 ```
 
+## Download the executable jar
+
+Get it in the [releases section](https://github.com/donno2048/Notepad--/releases)
+
 ## Compile
 
 ```sh
